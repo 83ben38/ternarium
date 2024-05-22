@@ -1,0 +1,1 @@
+class?Solution:(modify?static:(parameters?(String[]?args:):(void?main:((Scanner?s:(new?Scanner:))(int?n:(run?s.nextInt:))(while?n>0:((run?System.out.println:n)(set?n:n-1)))(run?System.out.println:"Blastoff!")))))

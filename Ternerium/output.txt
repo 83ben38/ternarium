@@ -1,0 +1,2 @@
+class Solution{ static void main(String[] args){Scanner s = (new?Scanner:);int n = (run?s.nextInt:);while(n>0){System.out.println(n)n = n-1;}
+System.out.println("Blastoff!")}}
